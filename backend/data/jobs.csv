@@ -1,0 +1,6 @@
+title,company,location,description,source,url
+Software Engineer,Tech Corp,Remote,"We need a Python developer with FastAPI and SQL experience.","Kaggle","http://example.com/1"
+Frontend Dev,Web Solutions,New York,"Looking for React and TypeScript expert. Tailwind CSS is a plus.","Kaggle","http://example.com/2"
+Data Scientist,Data AI,San Francisco,"Machine Learning role using Python, scikit-learn, and Pandas.","Kaggle","http://example.com/3"
+DevOps Engineer,Cloud Sys,Remote,"Experience with AWS, Docker, and Kubernetes required.","Kaggle","http://example.com/4"
+Full Stack Developer,StartUp Inc,Remote,"Join us to build apps with Node.js, React, and MongoDB.","Kaggle","http://example.com/5"

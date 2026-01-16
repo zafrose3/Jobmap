@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+spacy
+scikit-learn
+pandas
+numpy
+pytest
+python-multipart
+requests
