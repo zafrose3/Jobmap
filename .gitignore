@@ -26,3 +26,4 @@ Thumbs.db
 
 # Large Data Files
 postings.csv
+backend/data/jobs.csv
