@@ -1,4 +1,9 @@
 # JobMap: AI-Powered Career Intelligence Platform 🗺️
+JobMap is an open-source AI/ML platform that transforms hiring market data into actionable career intelligence. We provide data-driven insights into skill demand trends, emerging roles, and optimal career pathways using state-of-the-art machine learning. 
+
+Technology Stack: Python, PyTorch/TensorFlow, Hugging Face Transformers, FastAPI, Next.js, PostgreSQL, MLflow, DVC
+Project Difficulty: Medium to High
+Category: Machine Learning, NLP, Data Science, MLOps
 
 ## 🧠 AI/ML Core Problem Statement
 
